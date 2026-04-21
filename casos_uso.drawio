@@ -1,0 +1,85 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram name="Página-1" id="mSimQvcJCGVZ1DawFOf-">
+    <mxGraphModel dx="663" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="537.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-11" value="IDENTIFICARSE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="485" width="55" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-12" value="RESERVAR UNA PISTA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-13" value="APUNTARSE A CLASES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="550" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="490" as="sourcePoint" />
+            <mxPoint x="130" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="502.5" as="sourcePoint" />
+            <mxPoint x="270" y="477.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-30" value="Verificar si el socio tiene pagos pendientes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="455" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="470" as="sourcePoint" />
+            <mxPoint x="405" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-34" value="include" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="520" as="sourcePoint" />
+            <mxPoint x="270" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="567.5" as="sourcePoint" />
+            <mxPoint x="415" y="567.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-45" value="extend" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="537.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8ETdt7nMRguHWYLqqoaH-13" target="8ETdt7nMRguHWYLqqoaH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="537.5" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ETdt7nMRguHWYLqqoaH-48" value="Contratar seguro de lesiones" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="552.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
